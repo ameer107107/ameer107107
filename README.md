@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ameer Mohammed Al-Saadi 👋
 
-<!--
-**ameer107107/ameer107107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Networking | AWS Cloud Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+I'm a student of **Information Systems Management (ISM)** at the **University of Information Technology and Communications (UOITC)**.
+
+I'm a Full Stack Developer with a background in networking, and I'm currently interested in **AWS Cloud**.
+
+## 🤝 Volunteering
+
+**IT Support Volunteer** at **GDG on Campus, UOITC**
+
+## 🛠️ Skills
+
+- Full Stack Development
+- Networking
+- AWS Cloud (area of interest)
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-ameeralsaadi768@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameeralsaadi768@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameer%20Al--Saadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-al-saadi-ba35bb397/)
