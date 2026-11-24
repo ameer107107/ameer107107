@@ -58,6 +58,18 @@ I'm a **Full Stack Developer** with a background in **networking**, and I'm curr
 
 </div>
 
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameer107017/ameer107017/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameer107017/ameer107017/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ameer107017/ameer107017/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
 ## 📫 Get in Touch
 
 <div align="center">
