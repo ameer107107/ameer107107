@@ -43,8 +43,8 @@ I'm a **Full Stack Developer** with a background in **networking**, and I'm curr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ameer107017&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer107017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer107017&theme=tokyonight" alt="Profile Details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameer107017&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
