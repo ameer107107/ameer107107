@@ -39,16 +39,22 @@ I'm a **Full Stack Developer** with a background in **networking**, and I'm curr
 
 </div>
 
-## 📊 GitHub Stats
+## ✨ Let's Connect & Grow
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer107017&theme=tokyonight" alt="Profile Details" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameer107017&theme=tokyonight" alt="Top Languages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=34A853&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day;Building+with+passion;Supporting+the+GDG+community+at+UOITC" alt="Motto" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=4&section=header" width="80%" alt="Divider" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ameer107017&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" />
+<img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud" />
+<img src="https://img.shields.io/badge/Networking-EA4335?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
+<img src="https://img.shields.io/badge/Web-34A853?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" />
 
 </div>
 
